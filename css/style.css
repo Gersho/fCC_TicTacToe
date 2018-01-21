@@ -1,0 +1,42 @@
+.col-md-2{
+border-width: 10px !important;
+    border-color: silver !important;
+    border-style: solid !important;
+    height: 100px !important;
+    width: 100px !important;
+}
+
+
+.tiles{
+  color: grey;
+  text-align: center;
+
+
+}
+
+.centerplz{
+
+  width: 600px;
+  margin: auto;
+  margin-top: 100px;
+  text-align: center;
+
+}
+
+.crossfix{
+
+  font-size: 70px !important;
+  transform: translateY(10%) !important;
+
+}
+
+.circlefix{
+
+    font-size: 70px !important;
+  transform: translateY(10%) !important;
+}
+
+.scoring{
+   font-size: 20px;
+
+}
